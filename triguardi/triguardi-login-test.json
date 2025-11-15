@@ -2,4 +2,5 @@
 "testcase": "Login Functionality",
 "steps": ["Open App", "Enter Credentials", "Click Login"],
 "expected_result": "User navigates to dashboard"
+"expected_resultt": "User akan logout secara otomatis"
 }
